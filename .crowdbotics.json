@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.7.0",
+    "cookiecutter_context": {
+      "project_name": "NewJuan0501",
+      "project_slug": "newjuan0501_54",
+      "project_dash_slug": "newjuan0501-54",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "azul@gmail.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
